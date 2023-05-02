@@ -40,7 +40,7 @@ Farm stressors are one of the main causes of farm injuries. Identifying stressfu
 > * The five research questions were answered as "**yes**" respectively
 > * Death and injury stressors are the most stressful life events
 
-# Discussion
+# Discussion and next step
 
 >![Screenshot 2023-05-02 at 11 20 53 AM](https://user-images.githubusercontent.com/130385028/235725660-590abdc7-20bc-4bab-af18-f7d11c81832f.png)
 
