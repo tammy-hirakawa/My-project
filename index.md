@@ -33,6 +33,10 @@ Farm stressors are one of the main causes of farm injuries. Identifying stressfu
 
 > This is a blockquote following a header.
 
+<a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+
+<a href="{{ [docs/Iowa Farm Stressors-V6.ipynb](https://github.com/tammy-hirakawa/My-project/blob/master/Iowa%20Farm%20Stressors-V6%20-%20Jupyter%20Notebook.pdf) }}" class="btn">View on GitHub</a>
+
 > [docs/Iowa Farm Stressors-V6.ipynb](https://github.com/tammy-hirakawa/My-project/blob/master/Iowa%20Farm%20Stressors-V6%20-%20Jupyter%20Notebook.pdf)
 
 
