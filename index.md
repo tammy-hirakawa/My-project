@@ -25,6 +25,10 @@ Farm stressors are one of the main causes of farm injuries. Identifying stressfu
 *   Does the **injury to yourself** stressful or not stressful?
 *   Does the **death of a child** stressful or not stressful?
 
+# Project Workflow
+
+![image](https://user-images.githubusercontent.com/130385028/235721084-e53429e5-2a25-4888-8756-a5afa2f682c6.png)
+
 # Analysis
 
 > This is a blockquote following a header.
