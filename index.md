@@ -42,8 +42,7 @@ Farm stressors are one of the main causes of farm injuries. Identifying stressfu
 
 # Discussion and next steps
 
->![Screenshot 2023-05-02 at 11 20 53 AM](https://user-images.githubusercontent.com/130385028/235725660-590abdc7-20bc-4bab-af18-f7d11c81832f.png)
-
+![Screenshot 2023-05-02 at 5 30 06 PM](https://user-images.githubusercontent.com/130385028/235799367-f98fe7d9-c1a8-4019-80bc-22c4b29a8eb6.png)
 
 * * *
 
