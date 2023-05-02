@@ -45,37 +45,10 @@ Farm stressors are one of the main causes of farm injuries. Identifying stressfu
 # Discussion
 
 > This is a blockquote following a header.
->
+> 
+>![Screenshot 2023-05-02 at 11 20 53 AM](https://user-images.githubusercontent.com/130385028/235725660-590abdc7-20bc-4bab-af18-f7d11c81832f.png)
+
 > When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
