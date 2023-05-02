@@ -5,7 +5,7 @@ layout: default
 
 
 
-```
+---
 
 
 
@@ -63,10 +63,3 @@ Farm stressors are one of the main causes of farm injuries. Identifying stressfu
 
 * * *
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
