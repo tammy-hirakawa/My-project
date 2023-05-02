@@ -30,12 +30,10 @@ Farm stressors are one of the main causes of farm injuries. Identifying stressfu
 ![image](https://user-images.githubusercontent.com/130385028/235721084-e53429e5-2a25-4888-8756-a5afa2f682c6.png)
 
 # Analysis
-
+>
 > **Jupyter Notebook**
-
+> 
 > [docs/Iowa Farm Stressors-V6.ipynb](https://github.com/tammy-hirakawa/My-project/blob/master/Iowa%20Farm%20Stressors-V6%20-%20Jupyter%20Notebook.pdf)
-
-> When something is important enough, you do it even if the odds are not in your favor.
 
 # Output
 
