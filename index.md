@@ -44,22 +44,8 @@ Farm stressors are one of the main causes of farm injuries. Identifying stressfu
 
 # Discussion
 
-> This is a blockquote following a header.
-> 
 >![Screenshot 2023-05-02 at 11 20 53 AM](https://user-images.githubusercontent.com/130385028/235725660-590abdc7-20bc-4bab-af18-f7d11c81832f.png)
 
-> When something is important enough, you do it even if the odds are not in your favor.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
 
 * * *
 
