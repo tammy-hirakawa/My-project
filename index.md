@@ -37,6 +37,11 @@ Farm stressors are one of the main causes of farm injuries. Identifying stressfu
 
 > When something is important enough, you do it even if the odds are not in your favor.
 
+# Output
+
+> * The five research questions were answered as "**yes**" respectively
+> * Death and injury stressors are the most stressful life events
+
 # Discussion
 
 > This is a blockquote following a header.
@@ -115,13 +120,7 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
